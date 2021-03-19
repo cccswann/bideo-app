@@ -1,3 +1,3 @@
 # ビデオ Bideo
 
-A curated grammar video web app to supercharge your Japanese language learning.
+A web app for curated grammar videos to supercharge your Japanese language learning!
